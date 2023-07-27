@@ -1,0 +1,6 @@
+pdf2image
+pytesseract
+openai
+biopython
+langchain==0.0.225
+chromadb
